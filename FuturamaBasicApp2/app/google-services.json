@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "607690746339",
+    "project_id": "futuramaapp-6b48c",
+    "storage_bucket": "futuramaapp-6b48c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607690746339:android:33ae9f16e0bf38a1f318d6",
+        "android_client_info": {
+          "package_name": "com.example.futuramabasicapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607690746339-k452u4vufeq9cv8mb2ae0822sggbaip2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.futuramabasicapp",
+            "certificate_hash": "e8bb666e7b9b5744bf09908bcb064162d61f4d70"
+          }
+        },
+        {
+          "client_id": "607690746339-borm9o3d6nha0sqlu2g0qu6akro109o9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCweS31eC9-EQo5EMEngSt5v1CKaqXd1oU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607690746339-borm9o3d6nha0sqlu2g0qu6akro109o9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
